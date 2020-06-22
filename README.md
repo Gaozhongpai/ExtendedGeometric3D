@@ -7,12 +7,10 @@ Geometric models are tools to analyze geometric distortions in S3D viewing. For 
 <p align="center"> <img src="figs/measureResult.png" width="100%"> </p>
 
 	
-### (1) Setup
-This code has been tested with Matlab with Psychtoolbox
+### Requirement
+This code has implemented in Matlab with Psychtoolbox.
  
 - Clone the repository 
 ```
-git clone https://github.com/Gaozhongpai/
-ExtendedGeometric3D && cd 
-ExtendedGeometric3D
+git clone https://github.com/Gaozhongpai/ExtendedGeometric3D && cd ExtendedGeometric3D
 ```
